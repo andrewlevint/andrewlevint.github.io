@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 
 <a style="-webkit-box-shadow: 0px 10px 13px -7px #000000, 9px 45px 0px 0px rgba(0,0,0,0);
             box-shadow: 0px 10px 13px -7px #000000, 9px 45px 0px 0px rgba(0,0,0,0);">
-  <img src="/visiting-card-preview-beta.png" alt="visiting-card-preview-beta" style="width:200px;">
+  <img src="/visiting-card-preview-beta.png" alt="visiting-card-preview-beta" style="width:200px; border-radius: 1rem;">
 </a>
 
 
