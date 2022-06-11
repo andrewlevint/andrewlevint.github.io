@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 
 
 
-# Footer with images
+# Footer with some images
 
 📌
 
