@@ -10,7 +10,7 @@ Hello World!
 
 
 
-## You can contact me
+## You can contact me via:
 
 📧 [andrewlevint@hotmail.com](mailto:andrewlevint@hotmail.com)
 
