@@ -146,6 +146,11 @@ How it looks like on Iphone in Wallet
 
 ![vcard-in-apple-wallet-screenshoot](/vcard-in-apple-wallet-screenshoot.jpeg)
 
+<img 
+src="/vcard-in-apple-wallet-screenshoot.jpeg"
+alt="vcard-in-apple-wallet-screenshoot"
+style="width:200px;">
+
 QR code links to subheader of this page 
 
 [https://andrewlevint.github.io/#visiting-card](https://andrewlevint.github.io/#visiting-card)
