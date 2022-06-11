@@ -51,7 +51,11 @@ Skype: [live:.cid.165229a2a35badf1](https://join.skype.com/invite/KdXPOEhFGPHe)
 
 https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf
 
-<img src="/visiting-card-preview-beta.png" alt="visiting-card-preview-beta" style="">
+<div style="-webkit-box-shadow: 0px 10px 13px -7px #000000, 9px 45px 0px 0px rgba(0,0,0,0);
+            box-shadow: 0px 10px 13px -7px #000000, 9px 45px 0px 0px rgba(0,0,0,0);">
+  <img src="/visiting-card-preview-beta.png" alt="visiting-card-preview-beta" style="width:200px;">
+</div>
+
 
 
 
