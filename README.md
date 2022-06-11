@@ -10,7 +10,7 @@ Hello World!
 
 
 
-## You can contact me via:
+## Contact me via:
 
 📧 [andrewlevint@hotmail.com](mailto:andrewlevint@hotmail.com)
 
@@ -46,10 +46,9 @@ Skype: [live:.cid.165229a2a35badf1](https://join.skype.com/invite/KdXPOEhFGPHe)
 
 
 
-
 # Visiting Card
 
-[https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf](https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf)
+You can download and add my vCard with my contacts information to your Contact App by clicking an image or a button below
 
 
 <p style="text-align: center;">
@@ -91,8 +90,11 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
 href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
 role="button">
 Download vCard</a>
-</p>
 
+
+<p style="text-align: center;">
+[https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf](https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf)
+</p>
 
 # Footer with some images
 
