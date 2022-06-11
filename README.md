@@ -59,7 +59,8 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 </a>
 
 
-<a class="btn btn-success" href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf" role="button">Download  vCard</a>
+<a class="btn btn-success" href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
+   role="button">Download vCard</a>
 
 
 
