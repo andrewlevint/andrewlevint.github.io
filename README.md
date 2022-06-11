@@ -51,6 +51,7 @@ Skype: [live:.cid.165229a2a35badf1](https://join.skype.com/invite/KdXPOEhFGPHe)
 You can download and add my vCard with my contacts information to your Contact App by clicking an image or a button below
 
 
+
 <p style="text-align: center;">
 <a 
 style=""
@@ -90,11 +91,19 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
 href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
 role="button">
 Download vCard</a>
-
-
+  
+  
 <p style="text-align: center;">
-[https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf](https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf)
+<a
+href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
+role="button">
+https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf
+</a>
 </p>
+
+
+
+
 
 # Footer with some images
 
