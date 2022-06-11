@@ -92,8 +92,9 @@ transition: color .15s ease-in-out,background-color .15s ease-in-out,border-colo
 href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
 role="button">
 Download vCard</a>
-  
-  
+</p>
+
+
 <p style="text-align: center;">
 <a
 href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
