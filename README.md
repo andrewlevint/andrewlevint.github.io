@@ -29,7 +29,7 @@ Hello World!
 
 
 
-<a title="Skype Technologies, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Skype_logo_(2019%E2%80%93present).svg"><img width="64" alt="Skype logo (2019–present)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/64px-Skype_logo_%282019%E2%80%93present%29.svg.png"></a>
+<a title="Skype Technologies, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Skype_logo_(2019%E2%80%93present).svg"><img width="32" alt="Skype logo (2019–present)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/32px-Skype_logo_%282019%E2%80%93present%29.svg.png"></a>
 
 Skype: [live:.cid.165229a2a35badf1](live:.cid.165229a2a35badf1)
 
