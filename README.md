@@ -106,6 +106,26 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 
 
 
+# Devepolment
+
+
+Link to add my signed Vacrd pass to Apple Wallet 
+
+[https://d.pslot.io/t/y2lQiytI4](https://d.pslot.io/t/y2lQiytI4)
+
+How it looks like on Iphone in Wallet
+
+<img 
+src="/vcard-in-apple-wallet-screenshoot.jpeg"
+alt="vcard-in-apple-wallet-screenshoot"
+style="width:200px;">
+
+QR code links to subheader of this page 
+
+[https://andrewlevint.github.io/#visiting-card](https://andrewlevint.github.io/#visiting-card)
+
+Then your can download vcard here
+
 
 # Footer with some images
 
@@ -134,28 +154,6 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 😂
 
 😝
-
-# Devepolment
-
-
-Link to add my signed Vacrd pass to Apple Wallet 
-
-[https://d.pslot.io/t/y2lQiytI4](https://d.pslot.io/t/y2lQiytI4)
-
-How it looks like on Iphone in Wallet
-
-<img 
-src="/vcard-in-apple-wallet-screenshoot.jpeg"
-alt="vcard-in-apple-wallet-screenshoot"
-style="width:200px;">
-
-QR code links to subheader of this page 
-
-[https://andrewlevint.github.io/#visiting-card](https://andrewlevint.github.io/#visiting-card)
-
-Then your can download vcard here
-
-
 
 
 
