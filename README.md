@@ -4,13 +4,14 @@
 
 Hello World!
 
+**I'm Andrew Levin**
 
-[https://andrewlevint.github.io](https://andrewlevint.github.io)
+You're welcome on my page at [https://andrewlevint.github.io](https://andrewlevint.github.io)
 
 
 
 
-## Contact me via:
+## Contacts
 
 📧 [andrewlevint@hotmail.com](mailto:andrewlevint@hotmail.com)
 
