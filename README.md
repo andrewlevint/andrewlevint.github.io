@@ -144,8 +144,13 @@ Link to add my signed Vacrd pass to Apple Wallet
 
 How it looks like on Iphone in Wallet
 
+![vcard-in-apple-wallet-screenshoot](/vcard-in-apple-wallet-screenshoot.jpeg)
 
+QR code links to subheader of this page 
 
+[https://andrewlevint.github.io/#visiting-card](https://andrewlevint.github.io/#visiting-card)
+
+Then your can download vcard here
 
 
 
