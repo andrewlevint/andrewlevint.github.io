@@ -111,7 +111,11 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 
 Link to add my signed Vacrd pass to Apple Wallet 
 
+Main Blue Pass
 [https://d.pslot.io/t/y2lQiytI4](https://d.pslot.io/t/y2lQiytI4)
+
+Strava Orange Pass
+[https://d.pslot.io/t/ADlRzCyzc](https://d.pslot.io/t/ADlRzCyzc)
 
 How it looks like on Iphone in Wallet
 
