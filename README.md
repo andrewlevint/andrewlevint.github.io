@@ -120,9 +120,19 @@ Strava Orange Pass
 How it looks like on Iphone in Wallet
 
 <img 
+src="/vcard-strava-screen.jpeg"
+alt="vcard-strava-screen"
+style="width:200px; padding:1rem;">
+
+<img 
+src="/vcard-both-screen.jpeg"
+alt="vcard-both-screen"
+style="width:200px; padding:1rem;">
+
+<img 
 src="/vcard-in-apple-wallet-screenshoot.jpeg"
 alt="vcard-in-apple-wallet-screenshoot"
-style="width:200px;">
+style="width:200px; padding:1rem;">
 
 QR code links to subheader of this page 
 
