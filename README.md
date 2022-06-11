@@ -84,6 +84,35 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 
 
 
+# Footer with images
+
+📌
+
+🧨
+
+🌶
+
+🧙🏻
+
+😊
+
+🥺
+
+😉
+
+😍
+
+😘
+
+😚
+
+😜
+
+😂
+
+😝
+
+
 
 
 
