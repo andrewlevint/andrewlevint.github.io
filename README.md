@@ -9,22 +9,41 @@ Hello World!
 
 # You can contact me
 
-andrewlevint@hotmail.com
+[andrewlevint@hotmail.com](mailto:andrewlevint@hotmail.com)
 
-andrewlevint@protonmail.com
+or
 
-andrewlevint@interia.pl
+[andrewlevint@protonmail.com](mailto:andrewlevint@protonmail.com)
+
+or
+
+[andrewlevint@interia.pl](mailto:andrewlevint@interia.pl)
+
+or
+
+[andrewlevint@gmail.com](mailto:andrewlevint@gmail.com)
 
 
-andrewlevint@gmail.com
+
+### Visit following links to get more contact details
 
 
-https://andrewlevint.github.io/
+[andrewlevint.github.io]( https://andrewlevint.github.io/)
 
 
-https://en.wikipedia.org/wiki/User:Andrewlevint
+[wikipedia.org/wiki/User:Andrewlevint](https://en.wikipedia.org/wiki/User:Andrewlevint)
 
-live:.cid.165229a2a35badf1
+
+
+Skype: [live:.cid.165229a2a35badf1](live:.cid.165229a2a35badf1)
+
+
+
+
+
+
+
+
 
 
 
