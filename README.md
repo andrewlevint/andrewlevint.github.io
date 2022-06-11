@@ -144,8 +144,6 @@ Link to add my signed Vacrd pass to Apple Wallet
 
 How it looks like on Iphone in Wallet
 
-![vcard-in-apple-wallet-screenshoot](/vcard-in-apple-wallet-screenshoot.jpeg)
-
 <img 
 src="/vcard-in-apple-wallet-screenshoot.jpeg"
 alt="vcard-in-apple-wallet-screenshoot"
