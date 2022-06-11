@@ -135,6 +135,18 @@ https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin
 
 😝
 
+# Devepolment
+
+
+Link to add my signed Vacrd pass to Apple Wallet 
+
+[https://d.pslot.io/t/y2lQiytI4](https://d.pslot.io/t/y2lQiytI4)
+
+How it looks like on Iphone in Wallet
+
+
+
+
 
 
 
