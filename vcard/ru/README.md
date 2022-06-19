@@ -11,7 +11,7 @@ href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main
 <img 
 src="vcard-preview-ru-220619.png"
 alt="vcard-preview-ru-220619.png"
-style="width:200px;
+style="width:250px;
 border-radius: 1rem;
 -webkit-box-shadow: 0px 10px 13px -7px #000000, 9px 45px 0px 0px rgba(0,0,0,0);
 box-shadow: 0px 10px 13px -7px #000000, 9px 45px 0px 0px rgba(0,0,0,0);">
