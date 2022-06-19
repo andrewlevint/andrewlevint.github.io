@@ -64,3 +64,16 @@ Then your can download vcard here
 😂
 
 😝
+
+# Upload
+
+### Int
+
+[/vcard/dev/Levin19_Andrew19_B79_int.vcf](/vcard/dev/Levin19_Andrew19_B79_int.vcf)
+
+
+### Ru
+
+[/vcard/dev/Levin19_Andrew19_B79_ru.vcf](/vcard/dev/Levin19_Andrew19_B79_ru.vcf)
+
+
