@@ -7,7 +7,7 @@ You can download and add my vCard with my contacts information to your Contact A
 <p style="text-align: center;">
 <a 
 style=""
-href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf">
+href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/ru/Levin_Andrew_ru.vcf">
 <img 
 src="vcard-preview-ru-220619.png"
 alt="vcard-preview-ru-220619.png"
@@ -40,7 +40,7 @@ line-height: 1.5;
 border-radius: 0.25rem;
 transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 "
-href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
+href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/ru/Levin_Andrew_ru.vcf"
 role="button">
 Download vCard</a>
 </p>
@@ -48,9 +48,9 @@ Download vCard</a>
 
 <p style="text-align: center;">
 <a
-href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf"
+href="https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/ru/Levin_Andrew_ru.vcf"
 role="button">
-https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/main/Levin_Andrew-beta.vcf
+https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/ru/Levin_Andrew_ru.vcf
 </a>
 </p>
 
