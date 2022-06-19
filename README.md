@@ -1,8 +1,6 @@
 # Andrew Levin
 
-![Andrew Levin](/imgs/al-1655451254-1800.jpg)
-
-<img src="/imgs/al-1655451254-1800.jpg" alt="al-1655451254-1800" width="600"/>
+<img src="/imgs/al-1655451254-1800.jpg" alt="al-1655451254-1800" width="800"/>
 
 Hello World!
 
