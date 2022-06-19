@@ -69,11 +69,11 @@ Then your can download vcard here
 
 ### Int
 
-[/vcard/dev/Levin19_Andrew19_B79_int.vcf](/vcard/dev/Levin19_Andrew19_B79_int.vcf)
+[https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/dev/Levin19_Andrew19_B79_int.vcf](https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/dev/Levin19_Andrew19_B79_int.vcf)
 
 
 ### Ru
 
-[/vcard/dev/Levin19_Andrew19_B79_ru.vcf](/vcard/dev/Levin19_Andrew19_B79_ru.vcf)
+[https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/dev/Levin19_Andrew19_B79_ru.vcf](https://raw.githubusercontent.com/andrewlevint/andrewlevint.github.io/mymain/vcard/dev/Levin19_Andrew19_B79_ru.vcf)
 
 
