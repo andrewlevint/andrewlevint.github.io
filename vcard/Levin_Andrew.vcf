@@ -10,9 +10,10 @@ EMAIL;type=INTERNET;type=HOME:andrewlevint@interia.pl
 EMAIL;type=INTERNET;type=HOME:andrewlevint@gmail.com
 TEL;type=CELL;type=VOICE;type=pref:+79258408948
 X-SOCIALPROFILE;type=Skype;x-user="live:.cid.165229a2a35badf1":x-apple:live%3A.cid.165229a2a35badf1
-X-SOCIALPROFILE;type=Telegram:andreylev
+X-SOCIALPROFILE;type=Telegram2:andreylev
 URL;type=HOME;type=pref:https://andrewlevint.github.io
 URL;type=HOME:https://wikipedia.org/wiki/User:Andrewlevint
+URL;type=Telegram:https://t.me/andreylev
 BDAY;X-APPLE-OMIT-YEAR=1604:1604-12-12
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBYRXhpZgAATU0AKgAA
  AAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAA
