@@ -1,6 +1,6 @@
 # Andrew Levin
 
-## [Music](https://andrewlevint.github.io/music/)
+## [🎸 Music](https://andrewlevint.github.io/music/)
 
 # A
 
